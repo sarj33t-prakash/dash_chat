@@ -1,0 +1,22 @@
+name: dash_chat
+description: The most complete Chat UI for flutter inspired by react-native-gifted-chat.
+version: 1.1.16
+homepage: https://github.com/fayeed/dash_chat
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_parsed_text: ^2.2.1
+  uuid: ^3.0.7
+  intl: ^0.18.1
+  transparent_image: ^2.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# The following section is specific to Flutter.
+flutter:
